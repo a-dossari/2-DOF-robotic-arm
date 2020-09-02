@@ -22,4 +22,4 @@ To build the circuit, I used:
 
 - Two Servo motors.
 
-- Two button for the Servo motors.
+- Two button for forward and inverse kinematics.
