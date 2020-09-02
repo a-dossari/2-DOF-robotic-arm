@@ -8,7 +8,7 @@ Inverse kinematics: assume a value for a specific point on the x, y plane, and f
 
 As you can see in the code, you must assume a value for L1 (the length between the first motor and the second motor) and L2 (the length between the second motor and the end of the arm) before pressing any button. Then, when we press the left button (we must assume values ​​for the angles of the motors), the motors will move so that the end of the arm (the end of L2) is at a specific point. But when we press the right button (we must assume values ​​for x and y), it will find the angles ​​for the motors that we must choose to reach the point that was assumed, and then the arm will move to that point.
 
-I added an explanation and more details in the code
+I added an explanation and more details in the code.
 
 There is a video of a practical application similar to what I did, which is:
 
